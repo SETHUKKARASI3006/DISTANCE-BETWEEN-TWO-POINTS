@@ -8,7 +8,8 @@ Import the package math.
 ### Step 2: 
 Initialize the x and y co-ordinates of two points.
 ### Step 3: 
-Substitute the values in the distance formula  ![Alt text](formula.png)
+Substitute the values in the distance formula  ![formula](https://github.com/SETHUKKARASI3006/DISTANCE-BETWEEN-TWO-POINTS/assets/144979338/ff0e102d-4adf-4291-8ca7-e354cef454e0)
+
 ### Step 4: 
 Round the calculated value with two decimal points.
 ### Step 5: 
@@ -27,7 +28,8 @@ print(D)
 
 
 ### OUTPUT:
-![output](/DISTANCE-BETWEEN-TWO-POINTS/distanceoutput.png)
+![distanceoutput](https://github.com/SETHUKKARASI3006/DISTANCE-BETWEEN-TWO-POINTS/assets/144979338/f6e50731-1d80-44ab-b1ce-593bfeea524a)
+
 
 ### RESULT:
 Thus the distance between two points is calculated and executed successfully.
